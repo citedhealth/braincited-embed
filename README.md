@@ -104,12 +104,6 @@ That's it. The widget fetches evidence data from the BrainCited API and renders 
 <script src="https://cdn.jsdelivr.net/npm/braincited-embed@1/dist/embed.min.js"></script>
 ```
 
-### R2 CDN (braincited.com hosted)
-
-```html
-<script src="https://cdn.braincited.com/embed.min.js"></script>
-```
-
 ### npm (for bundlers)
 
 ```bash
