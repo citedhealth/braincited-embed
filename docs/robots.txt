@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# BrainCited Embed Widget
+# Main site: https://braincited.com
+# Widget docs: https://widget.braincited.com
+# npm: https://www.npmjs.com/package/braincited-embed
