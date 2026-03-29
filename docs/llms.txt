@@ -1,0 +1,31 @@
+# BrainCited Embed Widget
+
+> Embeddable BrainCited widgets for any website. Zero dependencies, Shadow DOM isolation, 4 themes (light/dark/sepia/auto).
+
+## Quick Start
+
+Add to any HTML page:
+- Script: <script src="https://cdn.jsdelivr.net/npm/braincited-embed@1/dist/embed.min.js"></script>
+
+## Links
+
+- Main site: https://braincited.com
+- Widget docs: https://widget.braincited.com
+- npm: https://www.npmjs.com/package/braincited-embed
+- GitHub: https://github.com/citedhealth/braincited-embed
+- API: https://braincited.com/developers/
+
+## CITED Health Widget Family
+
+- [CitedHealth Widget](https://widget.citedhealth.com)
+- [HairCited Widget](https://widget.haircited.com)
+- [SleepCited Widget](https://widget.sleepcited.com)
+- [GutCited Widget](https://widget.gutcited.com)
+- [ImmuneCited Widget](https://widget.immunecited.com)
+- [WeightCited Widget](https://widget.weightcited.com)
+- [HeartCited Widget](https://widget.heartcited.com)
+- [SkinCited Widget](https://widget.skincited.com)
+
+## Part of FYIPedia
+
+Open-source developer tools ecosystem — https://fyipedia.com
